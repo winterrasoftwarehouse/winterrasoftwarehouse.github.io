@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![Image](https://raw.githubusercontent.com/winterrasoftwarehouse/winterrasoftwarehouse.github.io/3c770a4131bcae877c3676c56ca2fc4aee4bcc13/white_logo_transparent_background.png)
 
 You can use the [editor on GitHub](https://github.com/winterrasoftwarehouse/winterrasoftwarehouse.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
